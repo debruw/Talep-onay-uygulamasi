@@ -1,0 +1,10 @@
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\bin\Debug\Yepsan_projesi.exe.config
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\bin\Debug\Yepsan_projesi.exe
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\bin\Debug\Yepsan_projesi.pdb
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\obj\Debug\Yepsan_projesi.csprojResolveAssemblyReference.cache
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\obj\Debug\Yepsan_projesi.Form1.resources
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\obj\Debug\Yepsan_projesi.Properties.Resources.resources
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\obj\Debug\Yepsan_projesi.csproj.GenerateResource.Cache
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\obj\Debug\Yepsan_projesi.exe
+c:\users\ebruu.ebrupc\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\obj\Debug\Yepsan_projesi.pdb
+C:\Users\Ebruu.EBRUPC\documents\visual studio 2015\Projects\Yepsan_projesi\Yepsan_projesi\obj\Debug\Yepsan_projesi.Giris.resources
